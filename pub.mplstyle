@@ -1,0 +1,17 @@
+axes.grid : True
+axes.labelpad : 15.0
+boxplot.medianprops.color : blue
+boxplot.medianprops.linewidth : 1.5
+boxplot.boxprops.linewidth : 1.5
+boxplot.showfliers : False
+boxplot.boxprops.color : blue
+grid.alpha : 0.5
+xtick.bottom : False
+xtick.labelbottom : False
+xtick.major.pad : 8
+ytick.major.pad : 8
+ytick.left : False
+font.size : 25
+font.family : serif
+axes.linewidth : 1
+grid.linewidth : 1

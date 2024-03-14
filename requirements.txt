@@ -1,0 +1,12 @@
+matplotlib
+torch
+tqdm
+pandas
+rides-env==0.1.20
+tram==0.1.9
+geneticalgorithm==1.0.2
+osmnx==1.9.1
+taxicab==0.0.3
+einops==0.7.0
+gymnasium==0.29.1
+gym==0.26.2
